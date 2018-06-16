@@ -1,4 +1,5 @@
-Prototyping Physical Interaction- SongStep
+UTS Subject: Prototyping Physical Interaction
+Assignment Project: SongStep
 
 A group assignment using Python on the Raspberry Pi 3B+, with an attached Sense HAT, as well as an Arduino Micro with a light sensor.
 
